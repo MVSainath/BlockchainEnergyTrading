@@ -1,12 +1,12 @@
 {
-    "power": [
+    "power": {
         "power1" : 2,
         "power2" : 5,
         "power3" : 9
-    ],
-    "price": [
+    },
+    "price": {
         "price1" : 5,
         "price2" : -2,
         "price3" : -3
-    ]
+    }
 }
